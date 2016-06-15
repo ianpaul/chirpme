@@ -83,5 +83,5 @@ header('Content-Type: application/json');
 #Tell Slack to print the JSON we've sent (Slack handles styling on its own).
 echo $payload;
 
-#we're done here.
+#We're done here.
 ?>
