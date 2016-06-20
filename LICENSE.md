@@ -1,7 +1,3 @@
-*This license applies to code taken from David McCreath's Is It Up For Slack: https://github.com/mccreath/isitup-for-slack*.
-
-*Code from Ian Anderson Gray's First Twitter app was used with permission from the author.*
-
 The MIT License (MIT)
 
 Copyright (c) 2015 David McCreath
@@ -24,3 +20,5 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+*This license does not apply to code taken from Ian Anderson Gray's First Twitter app, which was used with permission from the author.*
